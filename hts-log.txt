@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Tue, 01 Nov 2022 18:51:56 at http://papnikco.wwwaz1-ss103.a2hosted.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/MYCOPAY -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 http://papnikco.wwwaz1-ss103.a2hosted.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 9 links scanned, 8 files written (579639 bytes overall) [581773 bytes received at 16160 bytes/sec], 2579 bytes transferred using HTTP compression in 2 files, ratio 39%, 1.2 requests per connection
+(No errors, 0 warnings, 0 messages)
